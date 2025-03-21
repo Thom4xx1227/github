@@ -16,6 +16,17 @@ function saludarProfesor(nombre) {
     
 }
 
+// ejercicio 2
+
+function saludar (nombre) {
+
+    console.log(`hola como estas ${nombre}`)
+    
+}
+
+
+
 main ("Thom4x")
 saludarEstudiante ("thom4x")
 saludarProfesor ("german")
+saludar ("juan")
