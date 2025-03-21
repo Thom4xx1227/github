@@ -17,10 +17,13 @@ function saludarProfesor(nombre) {
 }
 
 // ejercicio 2
-
 function saludar (nom) {
 
     console.log(`hola como estas ${nom}`)
+
+function saludar (nombre) {
+
+    console.log(`hola como estas ${nombre}`)
     
 }
 
