@@ -4,4 +4,18 @@ function main(nombre) {
 
 }
 
-main("thom4x")
+function saludarEstudiante(nombre) {
+
+    console.log( `hola estudiante ${nombre}`)
+    
+}
+
+function saludarProfesor(nombre) {
+
+    console.log(`hola profesor ${nombre}`)
+    
+}
+
+main ("Thom4x")
+saludarEstudiante ("thom4x")
+saludarProfesor ("german")
